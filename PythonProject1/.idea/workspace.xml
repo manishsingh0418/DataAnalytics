@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="900430ed-19eb-4b4b-a369-55a67a1f3de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/firstprogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonForDataAnalytics/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="900430ed-19eb-4b4b-a369-55a67a1f3de6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +32,7 @@
   "keyToString": {
     "Python.firstprogram.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/manis/PycharmProjects/PythonProject1",
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
