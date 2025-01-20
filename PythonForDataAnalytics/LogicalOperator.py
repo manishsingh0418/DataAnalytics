@@ -1,0 +1,1 @@
+print(not(3>4 and 3<4))
