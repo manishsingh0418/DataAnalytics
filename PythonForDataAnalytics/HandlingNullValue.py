@@ -10,4 +10,4 @@ data["salary"]=data["salary"].replace(np.nan,30000)
 print(data)
 print(data["salary"].mean())
 print(data.fillna(method="bfill"))#backward fill
-print(data.fillna(method="bfill"))#forward fill
+print(data.fillna(method="ffill"))#forward fill
